@@ -102,8 +102,8 @@ File: gpg-ownertrust.txt
 ID: gpg-ownertrust    
 ![image](https://user-images.githubusercontent.com/81093419/197101314-abe36740-1164-4092-93fb-efb663a72d62.png)
 
-Kind: Secret text   
-Text: Passphrase used to generate GPG key   
+Secret text로 추가
+Text: GPG 등록 과정에서 입력했던 passphrase
 ID: gpg-passphrase   
 ![image](https://user-images.githubusercontent.com/81093419/197101323-1da3f632-c853-4784-b9cc-8128e72631a3.png)
 
