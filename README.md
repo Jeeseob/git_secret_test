@@ -92,7 +92,7 @@ $ gpg --export-ownertrust > gpg-ownertrust.txt
 #### 6-1. Jenkins에 Credential로 등록
 
 Secret file로 추가
-File: gpg-secret.key
+File: gpg-secret.key    
 ID: gpg-secret    
 ![image](https://user-images.githubusercontent.com/81093419/197101273-db3bfdec-f920-4675-8ef2-30d641ad2f04.png)
    
@@ -103,7 +103,7 @@ ID: gpg-ownertrust
 ![image](https://user-images.githubusercontent.com/81093419/197101314-abe36740-1164-4092-93fb-efb663a72d62.png)
 
 Kind: Secret text   
-Text: <Passphrase used to generate GPG key>   
+Text: Passphrase used to generate GPG key   
 ID: gpg-passphrase   
 ![image](https://user-images.githubusercontent.com/81093419/197101323-1da3f632-c853-4784-b9cc-8128e72631a3.png)
 
